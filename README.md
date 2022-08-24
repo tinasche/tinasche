@@ -16,5 +16,7 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50px"/>
+<br/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="tinasche"/>
           
 </div>     
