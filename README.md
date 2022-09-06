@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @tinasche
-- 👀 I’m interested in fullstack development with C# and Python.
+- 👀 I’m interested in fullstack development with C# and JavaScript.
 - 🌱 I’m currently learning VueJS with TypeScript 
 - 💞️ I’m looking to collaborate on backend services with NestJS and ASP.NET Core 
 - 📫 How to reach me ...
-
+<hr>
 My usual stack:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px"/>
@@ -18,5 +18,4 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50px"/>
 <br/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="tinasche"/>
-          
 </div>     
