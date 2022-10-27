@@ -19,5 +19,5 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="65px"/>
 <br>
 <br>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue" alt="tinasche"/>
+<img height="180em" show_icons=true align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue" alt="tinasche"/>
 </div>     
