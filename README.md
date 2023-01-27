@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinasche
 - 👀 I’m interested in fullstack development with C# and JavaScript.
-- 🌱 I’m currently learning VueJS with TypeScript 
-- 💞️ I’m looking to collaborate on backend services with NestJS, PHP and ASP.NET Core 
+- 🌱 I’m currently learning mobile development with Kotlin and Jetpack Compose (cool stuff!) 
+- 💞️ I’m looking to collaborate on backend services with ASP.NET Core.  
 - 📫 How to reach me ...
 <hr>
 My usual stack:
