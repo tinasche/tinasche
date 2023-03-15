@@ -20,3 +20,5 @@ My usual stack:
 <br>
 <img height="180em" show_icons=true align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue" alt="tinasche"/>
 </div>     
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
