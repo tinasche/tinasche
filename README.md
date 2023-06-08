@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tinasche
-- 👀 I’m interested in fullstack development with C# and JavaScript.
-- 🌱 I’m currently learning mobile development with Jetpack Compose and Flutter (cool stuff!) 
-- 💞️ I’m looking to collaborate on backend services with ASP.NET Core.  
-- 📫 How to reach me ...
+Hello, Tinashe here. <br> 
+I am a backend developer with a focus on .NET Core and Kotlin based environments.
 <hr>
 My usual stack:
 <div>
