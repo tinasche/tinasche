@@ -1,5 +1,5 @@
 Hello, Tinashe here. <br> 
-I am a backend developer with a focus on .NET Core and Kotlin based environments.
+I am a backend developer with a focus on .NET Core, JavaScript and Kotlin based environments.
 <hr>
 My usual stack:
 <div>
