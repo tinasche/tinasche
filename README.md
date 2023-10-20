@@ -14,7 +14,7 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-right:20px;" width="65px"/>
 <br>
 <br>
-<img height="180em" show_icons=true align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue" alt="tinasche"/>
+<img height="180em" show_icons=true align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinasche&show_icons=true&locale=en&layout=compact&langs_count=8&theme=slateorange" alt="tinasche"/>
 </div>     
 <!--<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>-->
