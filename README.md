@@ -1,9 +1,9 @@
 Hello, Tinashe here. <br> 
-I am a backend developer with a focus on .NET Core, JavaScript and Kotlin based environments.
+I am a backend developer with a focus on .NET, TypeScript and Kotlin based environments.
 <hr>
 My usual stack:
 <div>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin-right:20px;" width="65px" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin-right:20px;" width="65px" /> 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="65px" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin-right:20px;" width="65px"/>                
