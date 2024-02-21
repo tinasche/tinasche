@@ -5,7 +5,7 @@ My usual stack:
 <div>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin-right:20px;" width="65px" />  -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" style="margin-right:20px;" width="65px" /> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px" /> -->
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65px" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="margin-right:20px;" width="65px"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="margin-right:20px;" width="65px" />
@@ -13,7 +13,7 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin-right:20px;" width="65px"/>                
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-right:20px;" width="65px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-plain.svg" style="margin-right:20px;" width="65px" />          
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="margin-right:20px;" width="65px" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="margin-right:20px;" width="65px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-right:20px;" width="65px"/>
 <i class="devicon-microsoftsqlserver-plain-wordmark" style="margin-right:20px;" width="65px"></i>       
 <br>
