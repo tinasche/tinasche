@@ -12,7 +12,7 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin-right:20px;" width="65px"/>                
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-right:20px;" width="65px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-plain.svg" style="margin-right:20px;" width="65px" />          
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-plain.svg" style="margin-right:20px;" width="65px" /> -->        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="margin-right:20px;" width="65px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-right:20px;" width="65px"/>
 <i class="devicon-microsoftsqlserver-plain-wordmark" style="margin-right:20px;" width="65px"></i>       
