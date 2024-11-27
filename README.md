@@ -10,6 +10,7 @@ My usual stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="margin-right:20px;" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="65px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="65px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin-right:20px;" width="65px"/>                
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin-right:20px;" width="65px"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-plain.svg" style="margin-right:20px;" width="65px" /> -->        
