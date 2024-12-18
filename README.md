@@ -1,4 +1,4 @@
-<h3>Hey there, Tinashe here.</h3> <br> 
+<h3>Hey there, Tinashe here.✌🏾</h3> <br> 
 <p>I am a full stack developer with a focus on .NET, Angular and JVM based environments.</p>
 
 <hr>
