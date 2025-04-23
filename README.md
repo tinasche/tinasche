@@ -1,7 +1,7 @@
 <h3>Hey there, Tinashe here.✌🏾</h3> <br> 
 <p>I am a full stack developer with a focus on .NET, Angular and JVM based environments.</p>
 <p>I like tech and software, always learning new things and working to imrpove process and workflow for my clients.</p>
-<p>Check out [my website](https://www.theasbyte.site) to know more about my work. </p>
+<p>Check out (my website)[https://www.theasbyte.site] to know more about my work. </p>
 <hr>
 My usual stack:
 <div>
