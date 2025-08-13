@@ -26,5 +26,5 @@ My usual stack:
 </div>     
 <!--<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>-->
-<hr>
-<a href="https://app.daily.dev/madner"><img src="https://api.daily.dev/devcards/v2/TmLWMYS1ZVIvPO6IPD1xG.png?type=wide&r=i69" width="652" alt="tinashe's Dev Card"/></a>
+<!-- <hr> -->
+<!-- <a href="https://app.daily.dev/madner"><img src="https://api.daily.dev/devcards/v2/TmLWMYS1ZVIvPO6IPD1xG.png?type=wide&r=i69" width="652" alt="tinashe's Dev Card"/></a> -->
